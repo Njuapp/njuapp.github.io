@@ -1,0 +1,1 @@
+accu = atf('PokerHand.mat','output.mat');
